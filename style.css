@@ -51,6 +51,9 @@ p{
 .footer2{
     padding-right: 15px;
 }
+.footer3{
+    padding-right: 10px;
+}
 .number{
     font-size: 20px;
     height: 30px;
@@ -62,7 +65,7 @@ p{
     height: 40px;
     padding-bottom: 30px;
     font-size: 10px;
-    padding-right: 0px ;
+    padding-right: 0px;
 }
 span{
     padding-right: 10px;
